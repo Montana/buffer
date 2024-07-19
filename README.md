@@ -1,2 +1,2 @@
 # buffer
-Scanning my subnet with Rust
+Scanning my subnet.
