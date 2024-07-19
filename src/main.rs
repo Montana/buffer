@@ -5,7 +5,7 @@ use std::net::IpAddr;
 fn main() {
     let matches = App::new("Subnet Checker")
         .version("1.0")
-        .author("Your Name <your.email@example.com>")
+        .author("Montana Mendy <montana@linux.com>")
         .about("Checks if an IP address is within a subnet")
         .arg(
             Arg::new("ip")
