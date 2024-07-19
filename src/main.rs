@@ -3,7 +3,7 @@ use ipnetwork::IpNetwork;
 use std::net::IpAddr;
 
 fn main() {
-    let matches = App::new("Subnet Checker")
+    let matches = App::new("buffer")
         .version("1.0")
         .author("Michael Mendy <montana@linux.com>")
         .about("Checks if an IP address is within a subnet")
